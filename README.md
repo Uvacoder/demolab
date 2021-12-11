@@ -1,5 +1,5 @@
 # demolab
-
+-
 Demolab is my fantasy project created to understand the power of `JAMstack` using `JavaScript(Reactjs)`, `API(Netlify and Aws)` and pre-built Markup(`Gatsby`).
 
 - The demolab is hosted @ [https://demo.greenroots.info/](https://demo.greenroots.info/)
